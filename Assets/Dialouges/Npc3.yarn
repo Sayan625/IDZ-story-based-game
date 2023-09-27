@@ -1,0 +1,11 @@
+﻿title: Npc3
+tags:
+---
+//Npc1: Lets talk
+-> sure what to talk about?
+    I am a deer..
+    -> good to know
+        buy.
+-> nah too busy
+    later then.
+===

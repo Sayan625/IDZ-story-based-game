@@ -1,0 +1,40 @@
+﻿title: Npc2
+tags:
+---
+-> sure what to talk about? //player response
+    Wanna hear a joke?. //npc response
+    -> sure. //player response
+        Knock knock. //npc response
+        -> who's there? //player response
+            .... //npc response
+            -> say something? //player response
+                silence is here. //npc response
+-> nah too busy //player response
+    later then. //npc response
+===
+
+
+//  title: Npc2 
+//  tags:
+// ---
+// Npc2: lets talk
+// -> sure what to talk about?
+//    Wanna hear a joke?.
+// //    -> sure.
+//    <<positiveresponse>>
+
+// -> nah too busy
+//    later then.
+// ===
+// title: positiveresponse
+// ---
+//        Noc2: Knock knock.
+//        -> who's there?
+//            ....
+//            -> say something?
+//                silence is here.
+// ===
+// title: negativeresponse
+// ---
+//    later then
+// ===
